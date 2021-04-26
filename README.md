@@ -1,4 +1,4 @@
-# Run-Buddy
+# Run-Buddy, INC.
 
 ## Purpose
 a website that offers fitness training services.
@@ -12,3 +12,5 @@ https://kelleymarne.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kelley Worthington
+
+### ©️2019 Run Buddy, Inc 
